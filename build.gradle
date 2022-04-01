@@ -36,6 +36,7 @@ dependencies {
     compile('org.springframework.security:spring-security-test')
 
     compile('org.springframework.boot:spring-boot-devtools')
+    compile('org.mariadb.jdbc:mariadb-java-client')
 
     testCompile('org.springframework.boot:spring-boot-starter-test')
 }
